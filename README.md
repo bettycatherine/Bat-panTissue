@@ -2,18 +2,24 @@
 Scripts for annalyzing bat pan-tissue datasets
 
 📁 01_Data_integration_and_annotation
+
 Example from heart of basic Seurat workflow, quality control filtering, normalization, annotation and integration of the pan-tissue datasets.
 Example of annotation methods of marker genes enrichment from ErichR using three databases.
+
 01_bat-heart-integration-cca-process.R      
 02_bat-heart-integration-harmony-process.R  
 03_marker_enrichment.R                      
 04_pan_tissue_integration.R  
 
 📁 02_Gene_Regulatory_Networks_hdWGCNA
+
 Example of heart of hdWGCNA analysis and plot
+
 05_bat-heart-WGCNA-process-analysis.R 
 06_bat-heart-WGCNA-process-plot.R     
 
 📁 03_Cell_Communication
+
 Example of spleen cellchat analysis and plot
+
 07_bat-project-spleen-cellchat.R      
